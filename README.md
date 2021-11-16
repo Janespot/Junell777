@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junell777
+- 👋 Hi, I’m Jane
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning git and backend languages
 - 💞️ I’m looking to collaborate with other developers
