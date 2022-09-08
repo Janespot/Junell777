@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jane
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning git and backend languages
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me twitter:Jane_spot (@Janejunell777): https://twitter.com/Janejunell777?t=S7wcNV5I8lNjyZSSF2ScaA&s=16
 
